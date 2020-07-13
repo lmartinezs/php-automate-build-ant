@@ -26,7 +26,9 @@ class Bar
      */
     public function getNumber()
     {
+        test
         return $this->number;
+        
     }
 
     /**
