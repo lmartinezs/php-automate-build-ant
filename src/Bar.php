@@ -26,7 +26,7 @@ class Bar
      */
     public function getNumber()
     {
-        test parsing error
+        parsing error
         return $this->number;
         
     }
