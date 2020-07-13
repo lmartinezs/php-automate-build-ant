@@ -7,12 +7,12 @@
   },
   "require-dev": {
     "pdepend/pdepend": "2.2.4",
+        "sebastian/finder-facade": "@dev",
     "phing/phing": "2.15.0",
     "phploc/phploc": "3.0.1",
     "phpmd/phpmd": "2.4.3",
     "phpunit/phpunit": "^8",
     "sebastian/phpcpd": "5.0.0",
-    "sebastian/finder-facade": "@dev",
     "squizlabs/php_codesniffer": "2.7.0",
     "theseer/phpdox": "0.12.0"
   },
