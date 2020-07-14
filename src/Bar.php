@@ -10,7 +10,7 @@ class Bar
 {
     /** @var float */
     private $number;
-sss
+ssss
     /**
      * Money constructor.
      * @param float $number
