@@ -9,7 +9,7 @@ namespace Foo;
 class Bar
 {
     /** @var float */
-    private $number;
+    private $number
     private $testvar
    
     /**
