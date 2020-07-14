@@ -9,8 +9,8 @@ namespace Foo;
 class Bar
 {
     /** @var float */
-		private $number
-    private $testvarf
+    private $number;
+    private $testvarf;
    
     /**
      * Money constructor.
