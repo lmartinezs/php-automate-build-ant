@@ -1,7 +1,6 @@
 <?php
 
 namespace Foo;
-
 /**
  * Class Bar is a dead simple example for our PHP Unit Test.
  * @package Foo
@@ -9,7 +8,7 @@ namespace Foo;
 class Bar
 {
     /** @var float */
-    private $number;
+    private $numbert;
     private $testvarfi;
    
     /**
