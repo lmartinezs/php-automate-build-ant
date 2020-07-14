@@ -1,7 +1,7 @@
 <?php
 
 namespace Foo;
-
+ff
 /**
  * Class Bar is a dead simple example for our PHP Unit Test.
  * @package Foo
