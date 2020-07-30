@@ -11,6 +11,7 @@ class Bar
     /** @var float */
     private $number;
     private $testvars;
+    private $othervar;
    
     /**
      * Money constructor.
