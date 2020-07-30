@@ -10,7 +10,8 @@ class Bar
 {
     /** @var float */
     private $number;
-    private $testvarfi;
+    private $testvars;
+    private $custom_var;
    
     /**
      * Money constructor.
